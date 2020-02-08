@@ -1,5 +1,27 @@
 {
   "name": "cra-template-bento",
   "version": "0.0.3",
-  "license": "MIT"
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base template for Stacc X and Bento",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/staccx/cra-template-bento",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/staccx/cra-template-bento/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
