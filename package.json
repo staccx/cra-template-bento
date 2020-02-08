@@ -1,6 +1,5 @@
 {
   "name": "cra-template-bento",
   "version": "0.0.2",
-  "main": "index.js",
   "license": "MIT"
 }
