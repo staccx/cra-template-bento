@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@staccx/bento": "^10",
+    "styled-components": "^5.0.0"
+  }
+}
