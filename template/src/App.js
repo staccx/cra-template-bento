@@ -1,5 +1,4 @@
 import React from "react"
-import { ThemeProvider } from "styled-components"
 import { Button, CheckBox, ThemeProvider } from "@staccx/bento"
 
 function App () {
