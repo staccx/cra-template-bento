@@ -55,7 +55,6 @@ theming.theme.append(
   theming.createGlobal({
     base: theming.cssResets,
     remFix: remFix,
-    font: font,
     uu: uu
   })
 )
