@@ -1,1 +1,2 @@
 import "./variants"
+import "./properties"

@@ -1,0 +1,16 @@
+{
+  "extends": "@staccx",
+  "overrides": [
+    {
+      "files": ["*.js"],
+      "rules": {
+        "no-console": "error"
+      },
+	  "globals": {
+		"cy": true,
+		"Cypress": true,
+		"context": true
+	  }
+    }
+  ]
+}
