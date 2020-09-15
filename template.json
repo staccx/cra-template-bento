@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@staccx/bento": "^11",
+    "@staccx/bento": "^12",
     "styled-components": "^5.0.0",
     "@staccx/eslint-config": "^10.0.1",
     "eslint-config-prettier": "^6.9.0",
