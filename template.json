@@ -1,7 +1,7 @@
 {
   "package": {
     "dependencies": {
-      "@staccx/bento": "^12",
+      "@staccx/bento": "latest",
       "styled-components": "^5.0.0",
       "@staccx/eslint-config": "^10.0.1",
       "eslint-config-prettier": "^6.9.0",
@@ -16,11 +16,6 @@
       "eslint-plugin-react-hooks": "^2.3.0",
       "eslint-plugin-standard": "^4.0.1",
       "prettier": "^1.19.1"
-    },
-    "eslintConfig": {
-      "extends": [
-        "@staccx"
-      ]
     }
   }
 }

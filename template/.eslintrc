@@ -1,16 +1,12 @@
 {
-  "extends": "@staccx",
-  "overrides": [
-    {
-      "files": ["*.js"],
-      "rules": {
-        "no-console": "error"
-      },
-	  "globals": {
-		"cy": true,
-		"Cypress": true,
-		"context": true
-	  }
-    }
-  ]
+  "extends": [
+    "standard-jsx",
+    "@staccx"
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-curly-brace-presence": "warn",
+    "react/self-closing-comp": "warn",
+    "no-unused-vars": "warn"
+  }
 }
